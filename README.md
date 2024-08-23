@@ -5,19 +5,26 @@ https://github.com/user-attachments/assets/7dd06965-075d-47d2-ac35-48928b5f1b8b
 
 # Steps to use it .
 
-Clone the repo in your local system.
+1. Clone the repo in your local system.
  ```bash
-  git clone https://github.com/hereisSwapnil/tic-tac-toe-online
+  git clone https://github.com/Harshitkumargit/Real-time-Tic-Tac-Toe-Game.git
 ```
 
 2. Install the required packages such as Nodemon using the command :
-   
+
+   ```bash
    npm install -g nodemon
+   ```
 
+   ```bash
    npm install nodemon --save-dev
+   ```
    
-4. Run the command :
-   nodemon index
+3. Run the command in your terminal :
 
-5. Open your browser with the localhost:3000
-6. Connect using the same host address to play multiplayer on another .
+   ```bash
+   nodemon index
+   ```
+   
+4. Open your browser with the localhost:3000
+5. Connect using the same host address to play multiplayer on another .
