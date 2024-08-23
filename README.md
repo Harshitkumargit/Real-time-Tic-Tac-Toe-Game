@@ -5,7 +5,11 @@ https://github.com/user-attachments/assets/7dd06965-075d-47d2-ac35-48928b5f1b8b
 
 # Steps to use it .
 
-1. Clone all these files in your local system .
+Clone the repo in your local system.
+ ```bash
+  git clone https://github.com/hereisSwapnil/tic-tac-toe-online
+```
+
 2. Install the required packages such as Nodemon using the command :
    
    npm install -g nodemon
