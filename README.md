@@ -1,5 +1,5 @@
 
-## Real-time Tic-Tac-Toe Game
+# Real-time Tic-Tac-Toe Game
 # Tic Tac Toe Online
 
 Tic Tac Toe Online is a web application that brings the classic game of Tic Tac Toe to the digital realm, allowing players to enjoy the game with random opponents over the internet.
@@ -17,6 +17,10 @@ https://github.com/user-attachments/assets/7dd06965-075d-47d2-ac35-48928b5f1b8b
 
 - **Interactive Interface:** Engage with a user-friendly interface that enhances the overall gaming experience.
 
+#### Tech Stack
+
+- Frontend: React.js
+- Backend: Node.js, Socket.IO
 
 ## Steps to use it .
 
